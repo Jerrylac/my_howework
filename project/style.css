@@ -1,0 +1,15 @@
+#ha{
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    height: 10%;
+}
+h2,h1{
+    text-align: center;
+}
+#new{
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+    height: 20%;
+}
